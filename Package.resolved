@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RepoA",
+        "repositoryURL": "https://github.com/Sreekanth-Reddy-GB/RepoA.git",
+        "state": {
+          "branch": "main",
+          "revision": "0983f95fe0c9d9fe08114d187bec00fc6ff4a51b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,1 @@
+{"object": {"artifacts": [], "dependencies": [{"basedOn": null, "packageRef": {"identity": "repoa", "kind": "remote", "name": "RepoA", "path": "https://github.com/Sreekanth-Reddy-GB/RepoA.git"}, "state": {"checkoutState": {"branch": "main", "revision": "0983f95fe0c9d9fe08114d187bec00fc6ff4a51b", "version": null}, "name": "checkout"}, "subpath": "RepoA"}]}, "version": 4}
